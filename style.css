@@ -76,6 +76,20 @@ p {
     background-attachment: fixed;
 }
 
+/*carousel*/
+#carouselExample {
+    align-items: center;
+    width: 80%;
+    margin: auto;
+    padding: 25px;
+}
+.carousel-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 50px 50px 50px 50px;
+    border: 3px solid black;
+}
+
 /*photo*/
 
 .photo1 {
